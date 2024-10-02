@@ -1,0 +1,14 @@
+C:\Users\micha\Desktop\repos\Variables_Exercise1\Variables_Exercise1\bin\Debug\net8.0\Variables_Exercise1.exe
+C:\Users\micha\Desktop\repos\Variables_Exercise1\Variables_Exercise1\bin\Debug\net8.0\Variables_Exercise1.deps.json
+C:\Users\micha\Desktop\repos\Variables_Exercise1\Variables_Exercise1\bin\Debug\net8.0\Variables_Exercise1.runtimeconfig.json
+C:\Users\micha\Desktop\repos\Variables_Exercise1\Variables_Exercise1\bin\Debug\net8.0\Variables_Exercise1.dll
+C:\Users\micha\Desktop\repos\Variables_Exercise1\Variables_Exercise1\bin\Debug\net8.0\Variables_Exercise1.pdb
+C:\Users\micha\Desktop\repos\Variables_Exercise1\Variables_Exercise1\obj\Debug\net8.0\Variables_Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Desktop\repos\Variables_Exercise1\Variables_Exercise1\obj\Debug\net8.0\Variables_Exercise1.AssemblyInfoInputs.cache
+C:\Users\micha\Desktop\repos\Variables_Exercise1\Variables_Exercise1\obj\Debug\net8.0\Variables_Exercise1.AssemblyInfo.cs
+C:\Users\micha\Desktop\repos\Variables_Exercise1\Variables_Exercise1\obj\Debug\net8.0\Variables_Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\repos\Variables_Exercise1\Variables_Exercise1\obj\Debug\net8.0\Variables_Exercise1.dll
+C:\Users\micha\Desktop\repos\Variables_Exercise1\Variables_Exercise1\obj\Debug\net8.0\refint\Variables_Exercise1.dll
+C:\Users\micha\Desktop\repos\Variables_Exercise1\Variables_Exercise1\obj\Debug\net8.0\Variables_Exercise1.pdb
+C:\Users\micha\Desktop\repos\Variables_Exercise1\Variables_Exercise1\obj\Debug\net8.0\Variables_Exercise1.genruntimeconfig.cache
+C:\Users\micha\Desktop\repos\Variables_Exercise1\Variables_Exercise1\obj\Debug\net8.0\ref\Variables_Exercise1.dll
